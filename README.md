@@ -1,12 +1,9 @@
-This library is available in jcenter.
+To make the demo build properly, you need to add the following artifacts to your Windev Mobile Project Build Configuration:
 
-Add the following line in your module build.gradle to include it :
+GroupID: 'com.zebra.windevmobilehd4000wrapper'
+ArtifactID: 'windevmobilehd4000wrapper'
+Version: '1.0.0'
 
-api 'com.zebra.windevmobilemxwrapper:windevmobilemxwrapper:7.0.0'
-
-Don't forget to add the EMDK library too:
-
-api 'com.symbol:emdk:7.0.0'
 
 # END USER LICENSE AGREEMENT (UNRESTRICTED SOFTWARE)
 
