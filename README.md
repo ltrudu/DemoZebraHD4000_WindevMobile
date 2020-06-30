@@ -1,9 +1,12 @@
 To make the demo build properly, you need to add the following artifacts to your Windev Mobile Project Build Configuration:
 
 GroupID: 'com.zebra.windevmobilehd4000wrapper'
+
 ArtifactID: 'windevmobilehd4000wrapper'
+
 Version: '1.0.0'
 
+The artifact is available in 'jcenter'
 
 # END USER LICENSE AGREEMENT (UNRESTRICTED SOFTWARE)
 
